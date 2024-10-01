@@ -6,13 +6,13 @@
   <a href="https://www.malt.fr/profile/aurelienwolz">Malt</a>
 </p>
 
-I'm a freelance full-stack web developer passionate about building innovative solutions to enhance the web experience for everyone. I enjoy coding open-source projects on my free time, which mainly revolves around my hobbies: share my love for crafts beers 🍺 discuss sustainable gardening 🌱 improve daily comfort with home automation 🏠
+I'm Software Lead Developer at Michelin & Freelance full-stack web developer passionate about building innovative solutions to enhance the web experience for everyone. I enjoy coding open-source projects on my free time, which mainly revolves around my hobbies: share my love for crafts beers 🍺 discuss sustainable gardening 🌱 improve daily comfort with home automation 🏠
 
 ## Technical skills ✨
 
 - Design : UX/UI
 - Backend : Node.js, Python
-- Frontend : Svelte, Vue/VueX
+- Frontend : Svelte, Vue/VueX, Astro
 - CI/CD : Docker, Github Actions, GitlabCI
 - Database : MongoDB, MySQL, PostgreSQL, Firebase
 - Tooling: Vite, Rollup, Esbuild, PNPM, Monorepo
